@@ -1,7 +1,5 @@
-# Rsj_Rj_Portfoio_Website
-Rsj_Rj_Portfoio_Website
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
